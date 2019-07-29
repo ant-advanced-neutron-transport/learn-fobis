@@ -1,0 +1,16 @@
+[default]
+compiler  = gnu
+cflags    = -c -std=f2008 -O3
+lflags    = -O3
+build_dir = build
+src       = src
+
+colors = False
+quiet  = True
+log    = False
+mpi    = False
+jobs   = 4
+
+# mklib  = shared
+# target = hello_mod.f90
+# output = hello_mod.so

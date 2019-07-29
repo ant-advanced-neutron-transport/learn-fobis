@@ -1,0 +1,1 @@
+-c -fbacktrace -Wall -Wextra -Wno-maybe-uninitialized -Wno-unused-function -pedantic -std=f2008ts -O2
